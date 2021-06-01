@@ -2,9 +2,9 @@
 
 Das Aufgabenblatt adressiert die Grundlagen der Objektorientierten Programmierung unter C#. Dabei sollen Sie sich sowohl mit der spezifischen Semantik der Programmiersprache, aber auch den grundlegenen Konzepten zur Modellierung auseinander setzen.
 
-*Legen Sie für die Aufgaben 1 und 2 jeweils einen Maintainer (Reviewer) und einen Developer fest und lösen Sie die Aufgaben entsprechend der Rollenverteilung. Vermerken Sie die Aufteilung der Rollen in team.config.* 
+**Legen Sie für die Aufgaben 1 und 2 jeweils wechselnd die Rolle des Maintainers (Reviewer) und einen Developers fest und lösen Sie die Aufgaben entsprechend dieser Verteilung. Vermerken Sie die Aufteilung der Rollen in `team.config`** 
 
-Verwenden Sie zur Organisation der Zusammenarbeit die bereits bekannten GitHub - Features.
+Der Einfachheit halber werden die beiden (unabhängigen) Aufgaben in einem Repository bearbeitet. Um die Implementierungen zu separieren sollten diese in den zwei Ordnern `Aufgabe_1` und `Aufgabe_2` erfolgen. Verwenden Sie zur Organisation der Zusammenarbeit die bereits bekannten GitHub - Features (Issues, separate Branches für die Aufgaben, Commits mit Referenzen auf Issues, Pull-Requests mit Reviews).
 
 ## Bearbeitungzeit
 
