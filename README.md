@@ -1,6 +1,6 @@
 # Softwareentwicklung SoSe2021 - Aufgabe 05
 
-Das Aufgabenblatt adressiert die Grundlagen der Objektorientierten Programmierung unter C#. Dabei sollen Sie sich sowohl mit der spezifischen Semantik der Programmiersprache, aber auch den grundlegenen Konzepten zur Modellierung auseinander setzen.
+Das Aufgabenblatt adressiert weiterführende Aspekte der Objektorientierten Programmierung und der spezifischen Semantik unter C#.
 
 **Legen Sie für die Aufgaben 1 und 2 jeweils wechselnd die Rolle des Maintainers (Reviewer) und einen Developers fest und lösen Sie die Aufgaben entsprechend dieser Verteilung. Vermerken Sie die Aufteilung der Rollen in `team.config`** 
 
