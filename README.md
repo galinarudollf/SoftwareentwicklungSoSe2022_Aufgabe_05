@@ -1,4 +1,4 @@
-# Softwareentwicklung SoSe2021 - Aufgabe 05
+# Softwareentwicklung SoSe2022 - Aufgabe 05
 
 Das Aufgabenblatt adressiert weiterführende Aspekte der Objektorientierten Programmierung und der spezifischen Semantik unter C#.
 
@@ -8,10 +8,7 @@ Der Einfachheit halber werden die beiden (unabhängigen) Aufgaben in einem Repos
 
 ## Bearbeitungzeit
 
-SWE: 7.6. - 11.6. 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
-
-Einführung in SWE: 12.7 - 16.7 2021 (KGB, BENG, VTC, MB)
-
+SWE: 7.6. - 10.6. 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 ## 1. Vererbung, Überschreiben von Elementen, dynamische Bindung, Indexer
 
